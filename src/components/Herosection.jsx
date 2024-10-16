@@ -1,19 +1,20 @@
 import React from "react";
+import { Link } from "react-router-dom";
 export const Hero=()=>{
     return(
         <>
-        {/* <!-- hero section start --> */}
+        {/* hero section start  */}
 <main className="section-two">
   <div className="hero-grid">
     <div className="right--hero">
       <figure>
-          <img src="images/banner-img.png" alt="banner" width="350"/>
+          <img src="/images/me.jpeg" alt="banner"  className="myimage"/>
       </figure>
    </div>
     <div className="left--hero">
-          <h1 className="big--heading">Take Memories <br/>Leave FootPrint</h1>
-          <p className="heading">Where ever you go... <br/> good and healthy care</p>
-          <div ><a href="product.html" className="btn">Shop now</a></div>
+          <h1 className="big--heading">Hello & Welcome<br/>I'm Shristi Verma</h1>
+          <p className="heading">I’m a UI/UX & Web developer specializing <br/> in MERN-Stack.</p>
+          <div ><Link to="" className="btn">know more</Link></div>
     </div>
   </div> 
   <div className="custom-shape-divider-bottom-1711799045">

@@ -2,7 +2,9 @@ import React from 'react'
 import './App.css'
 import { BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import { Hnav } from './components/Header';
-import { Hero } from './components/Herosection';
+import { Home } from './components/Home';
+import { Footer } from './components/Footer';
+
 
 const App=()=>{
   
@@ -12,11 +14,10 @@ const App=()=>{
     <Router>
       <Hnav/>
       <Routes>
-      <Route path="/" element={<Hero/>} />
+        <Route path='/' element={<Home/>} />
       </Routes>
-
+      <Footer/>
     </Router>
-      
     </>
   )
 }

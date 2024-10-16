@@ -1,0 +1,63 @@
+[
+    {
+        "id":"tool-1",
+        "image":"https://cdn-icons-png.flaticon.com/512/732/732221.png",
+        "tool-name":"Canva",
+        "description":"Graphic design and media editing"
+    },
+    {
+        "id":"tool-2",
+        "image":"https://cdn-icons-png.flaticon.com/512/732/732212.png",
+        "tool-name":"Bootstrap",
+        "description":"Responsive CSS framework"
+    },
+    {
+        "id":"tool-3",
+        "image":"https://cdn-icons-png.flaticon.com/512/732/732245.png",
+        "tool-name":"Tailwind",
+        "description":"Utility-first CSS framework"
+    },
+    {
+        "id":"tool-4",
+        "image":"https://cdn-icons-png.flaticon.com/512/2111/2111432.png",
+        "tool-name":"GitHub",
+        "description":"Version control and code hosting"
+    },
+    {
+        "id":"tool-5",
+        "image":"https://cdn-icons-png.flaticon.com/512/732/732245.png",
+        "tool-name":"Netlify",
+        "description":"Hosting and deployment platform"
+    },
+    {
+        "id":"tool-6",
+        "image":"https://cdn-icons-png.flaticon.com/512/4248/4248443.png",
+        "tool-name":"Postman",
+        "description":"API development and testing"
+    },
+    {
+        "id":"tool-7",
+        "image":"https://cdn-icons-png.flaticon.com/512/906/906324.png",
+        "tool-name":"VS Code",
+        "description":"Code editor for developers"
+    },
+    {
+        "id":"tool-8",
+        "image":"https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+        "tool-name":"Figma",
+        "description":"Design and prototyping tool"
+    },
+    {
+        "id":"tool-9",
+        "image":"https://cdn-icons-png.flaticon.com/512/873/873120.png",
+        "tool-name":"Heroku",
+        "description":"Cloud platform for app deployment"
+    },
+    {
+        "id":"tool-10",
+        "image":"https://cdn-icons-png.flaticon.com/512/733/733579.png",
+        "tool-name":"Slack",
+        "description":"Communication and collaboration tool"
+    }
+
+]

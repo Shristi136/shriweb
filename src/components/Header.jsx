@@ -5,8 +5,11 @@ export const Hnav=()=>{
         <>
          <div className="section-one">
          <header>
-                <img src="/images/meetwhite.png" alt="logo image" />
-        <nav className="navbar">
+            <div className="gridimg">
+                <img src="/images/meetwhite.png" alt="logo image" className="logo"/>
+            </div>
+            <div className="gridnav">
+            <nav className="navbar">
             <ul>
                 <li><Link to="/">About</Link></li>
                 <li><Link to="/">Portfolio</Link></li>
@@ -14,6 +17,7 @@ export const Hnav=()=>{
                 <li><Link to="/">Contact</Link></li>
             </ul>
         </nav>
+            </div>
     </header>
          </div>
         </>
