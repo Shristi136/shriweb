@@ -8,9 +8,9 @@
     },
     {
         "id":"web-two",
-        "img_url":"/images/footprint.jpg",
-        "name":"Footprint",
-        "view_url":"https://smartcircle.netlify.app/"
+        "img_url":"/images/Todo-pic.jpg",
+        "name":"Todo List",
+        "view_url":"https://todolist1306.netlify.app/"
 
     },
     {

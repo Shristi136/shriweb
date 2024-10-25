@@ -3,7 +3,6 @@ import { Hero } from "./Herosection";
 import { ProjectData } from "./Project";
 import { Skill } from "./Skills";
 import { Toolsuse } from "./Tools";
-
 export const Home=()=>{
     return (
         <>

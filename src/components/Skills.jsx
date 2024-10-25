@@ -5,7 +5,7 @@ export const Skill=()=>{
     return(
         <>
         <div className="head-container">
-        <h2 className="common-heading">explore My Project</h2>
+        <h2 className="common-heading">My Skills</h2>
         </div>
         <section className="skills-section">
         <div className="skills-container">

@@ -1,5 +1,6 @@
 import React from "react";
 import tools from "../api/tools.json";
+import tailwindConfig from "../../tailwind.config";
 
 export const Toolsuse =()=>{
     return(
@@ -15,7 +16,7 @@ export const Toolsuse =()=>{
                     <div className="tool-item" key={curele.id}>
                      <img src={curele.image} alt="Canva Icon" />
                      <h3>{curele["tool-name"]}</h3>
-                     <p>{curele.description}</p>
+                     <p className="text-3xl font-bold underline">{curele.description}</p>
                     </div>
                 )
 

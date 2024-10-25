@@ -1,19 +1,19 @@
 [
     {
         "id":"tool-1",
-        "image":"https://cdn-icons-png.flaticon.com/512/732/732221.png",
+        "image":"https://cdn.worldvectorlogo.com/logos/canva-1.svg",
         "tool-name":"Canva",
         "description":"Graphic design and media editing"
     },
     {
         "id":"tool-2",
-        "image":"https://cdn-icons-png.flaticon.com/512/732/732212.png",
+        "image":"https://cdn-icons-png.flaticon.com/512/5968/5968672.png",
         "tool-name":"Bootstrap",
         "description":"Responsive CSS framework"
     },
     {
         "id":"tool-3",
-        "image":"https://cdn-icons-png.flaticon.com/512/732/732245.png",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
         "tool-name":"Tailwind",
         "description":"Utility-first CSS framework"
     },
@@ -25,7 +25,7 @@
     },
     {
         "id":"tool-5",
-        "image":"https://cdn-icons-png.flaticon.com/512/732/732245.png",
+        "image":"https://cdn.worldvectorlogo.com/logos/netlify.svg",
         "tool-name":"Netlify",
         "description":"Hosting and deployment platform"
     },
@@ -55,7 +55,7 @@
     },
     {
         "id":"tool-10",
-        "image":"https://cdn-icons-png.flaticon.com/512/733/733579.png",
+        "image":"https://cdn-icons-png.flaticon.com/512/2111/2111615.png",
         "tool-name":"Slack",
         "description":"Communication and collaboration tool"
     }
