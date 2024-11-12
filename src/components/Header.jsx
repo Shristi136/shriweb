@@ -9,12 +9,12 @@ export const Hnav = () => {
             <div className="section-one">
                 <header className="header">
                     <div className="gridimg">
-                        <img src="/images/meetwhite.png" alt="logo image" className="logo" />
+                        <Link to="/"><img src="/images/meetwhite.png" alt="logo image" className="logo"/></Link>
                     </div>
                     <nav className="navbar">
                         <ul>
                             <li><Link to="/">About</Link></li>
-                            <li><Link to="/">Portfolio</Link></li>
+                            <li><Link to="/Portfolio">Portfolio</Link></li>
                             <li><Link to="/">Skills</Link></li>
                             <li><Link to="/Contact">Contact</Link></li>
                         </ul>

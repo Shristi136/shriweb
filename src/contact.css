@@ -33,6 +33,12 @@ form {
     gap: 1rem;
     margin-bottom: .2rem;
   }
+  input::placeholder {
+    color: #fff;
+  }
+  textarea::placeholder{
+    color: #fff;
+  }
   .form-holder{
     margin-bottom: 1rem;
   }

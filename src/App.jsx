@@ -5,6 +5,7 @@ import { Hnav } from './components/Header';
 import { Home } from './components/Home';
 import { Footer } from './components/Footer';
 import {Contact} from './components/Contact';
+import { Portfolio } from './components/Portfolio';
 
 
 const App=()=>{
@@ -19,6 +20,7 @@ const App=()=>{
         {/* <Route path="/portfolio" element={Portfolio} /> */}
         {/* <Route path="/skills" element={Skills} /> */}
         <Route path="/Contact" element={<Contact/>} />
+        <Route path="/Portfolio" element={<Portfolio/>} />
 
       </Routes>
       <Footer/>

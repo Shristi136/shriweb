@@ -1,61 +1,61 @@
 [
     {
         "id":"tool-1",
-        "image":"https://cdn.worldvectorlogo.com/logos/canva-1.svg",
+        "image":"/images/canva-icon.png",
         "tool-name":"Canva",
         "description":"Graphic design and media editing"
     },
     {
         "id":"tool-2",
-        "image":"https://cdn-icons-png.flaticon.com/512/5968/5968672.png",
+        "image":"/images/bootstrap-icon.png",
         "tool-name":"Bootstrap",
         "description":"Responsive CSS framework"
     },
     {
         "id":"tool-3",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
+        "image":"/images/tailwind-icon.png",
         "tool-name":"Tailwind",
         "description":"Utility-first CSS framework"
     },
     {
         "id":"tool-4",
-        "image":"https://cdn-icons-png.flaticon.com/512/2111/2111432.png",
+        "image":"/images/github-icon.png",
         "tool-name":"GitHub",
         "description":"Version control and code hosting"
     },
     {
         "id":"tool-5",
-        "image":"https://cdn.worldvectorlogo.com/logos/netlify.svg",
+        "image":"/images/netlify-icon.png",
         "tool-name":"Netlify",
         "description":"Hosting and deployment platform"
     },
     {
         "id":"tool-6",
-        "image":"https://cdn-icons-png.flaticon.com/512/4248/4248443.png",
+        "image":"/images/postman-icon.png",
         "tool-name":"Postman",
         "description":"API development and testing"
     },
     {
         "id":"tool-7",
-        "image":"https://cdn-icons-png.flaticon.com/512/906/906324.png",
+        "image":"/images/vscode-icon.png",
         "tool-name":"VS Code",
         "description":"Code editor for developers"
     },
     {
         "id":"tool-8",
-        "image":"https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+        "image":"/images/figma-icon.png",
         "tool-name":"Figma",
         "description":"Design and prototyping tool"
     },
     {
         "id":"tool-9",
-        "image":"https://cdn-icons-png.flaticon.com/512/873/873120.png",
+        "image":"/images/heroku-icon.png",
         "tool-name":"Heroku",
         "description":"Cloud platform for app deployment"
     },
     {
         "id":"tool-10",
-        "image":"https://cdn-icons-png.flaticon.com/512/2111/2111615.png",
+        "image":"/images/slack-icon.png",
         "tool-name":"Slack",
         "description":"Communication and collaboration tool"
     }

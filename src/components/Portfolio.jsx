@@ -1,16 +1,16 @@
 import React from "react";
-import projectData from "../api/projectData.json";
+import portfolio from "../api/portfolio.json"
 import { Link } from "react-router-dom";
 
-export const ProjectData=()=>{
-    return(
+ export const Portfolio=()=>{
+return(
     <>
     <div className="head-container">
     <h2 className="common-heading">explore My Project</h2>
     </div>
-        <ul className="section-three">
+    <ul className="section-three">
             {
-                projectData.map((curEle)=>{
+                portfolio.map((curEle)=>{
                     return(
                         <li key={curEle.id}>
                             <h2>{curEle.name}</h2>
@@ -25,9 +25,7 @@ export const ProjectData=()=>{
                 })
             }
         </ul>
-        <Link to="/Portfolio" target="_blank">
-        <button className="btn">View more</button>
-        </Link>
-        </>
-    )
-}
+
+    </>
+)
+ }
